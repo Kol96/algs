@@ -1,4 +1,4 @@
-import Stack from '../Stack'
+import Stack from '../ArrayStack'
 
 test('size', () => {
   const a = new Stack<number>(10)
